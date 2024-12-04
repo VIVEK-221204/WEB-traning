@@ -1,0 +1,91 @@
+/* .title{
+    color: rgb(26, 255, 0);
+    font-size:50px;
+}
+.title2{
+    color: rgb(255, 183, 0);
+}
+.title3{
+    color: rgb(79, 68, 47);
+    
+}
+#welcome {
+    background-color: brown;
+}
+#html{
+    background-color: blue;
+}
+#me{
+    background-color: yellowgreen;
+}
+.heading{
+    font-size: 60px;
+    color: fuchsia;
+}
+.Box{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+
+    /* border: 40px solid white;
+    border-color: blueviolet; */
+/* }
+/* .sub-Box{
+    height: 200px;
+    width: 200px;
+    background-color:yellow;
+    padding: 100px;
+    border: 20px solid green; */
+    body{
+        position: relative;
+    }
+.container{
+    width: 100%;
+    height: 100%;
+    background-color:rgb(0, 191, 255);
+    
+    
+}
+.Box{
+    width: 150px;
+    height: 150px;
+    border: 4px solid rgb(0, 0, 0);
+}
+.Box1{
+    background-color: aqua;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    top: 50%;
+    bottom: 50%;
+    
+}
+.Box2{
+    background-color: darkseagreen;
+    position: absolute;
+    
+
+
+    
+}
+.Box3{
+    background-color: greenyellow;
+    position: absolute;
+left: 250%;
+right: 50%;
+
+
+    
+
+}
+.Box4{
+    background-color: indianred;
+    position: absolute;
+    left: 250%;
+
+}
+.Box5{
+    background-color: orangered;
+    
+}
+
